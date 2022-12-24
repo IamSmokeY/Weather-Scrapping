@@ -2,7 +2,7 @@
 import requests
 from datetime import datetime as dt
 
-apikey = "---your api goes heere---"
+apikey = "---your api goes here---"
 baseurl = "http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter the city: ")
