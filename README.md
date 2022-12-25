@@ -43,5 +43,5 @@ pip install requests
  headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"}
  html = requests.get(url, headers=headers).text
  ```
-- Be respectful of the website that you are scraping. Do not send too many requests in a short period of time as your ip address may get banner from that website.
+- Be respectful of the website that you are scraping. Do not send too many requests in a short period of time as your ip address may get banned from that website.
 
